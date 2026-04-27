@@ -1,6 +1,6 @@
 # Reproducible Research
 
-![Project Status](https://img.shields.io/badge/Status-To%20Be%20Done-yellow)
+![Project Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Course](https://img.shields.io/badge/Course-Reproducible%20Research-blue)
 ![Git](https://img.shields.io/badge/Version%20Control-Git-F05032?logo=git&logoColor=white)
 
@@ -8,7 +8,10 @@
 
 This repository contains the final project for the **Reproducible Research** course. The primary focus of this project is the process of reproduction, documenting challenges, implementing good coding practices, and collaborating effectively via Git, rather than analytic correctness.
 
-The specific topic will be selected from the course materials and confirmed with the coordinator.
+### Selected Topic for Reproduction
+The team is reproducing the project: **[WojciechHrycenko/AdvVisR](https://github.com/WojciechHrycenko/AdvVisR)**.
+* **Original Project:** An analysis of a complex, simulated dataset regarding fitness activities, nutritional habits, and physiological metrics, originally focused on advanced data visualization techniques using R.
+* **Our Goal:** We are reproducing this study by porting the entire analytical pipeline and visualizations from **R to Python**. We aim to document the challenges of cross-language reproduction and ensure the new Python-based workflow is fully reproducible.
 
 ## Team Members
 
@@ -39,21 +42,21 @@ The project is not aimed at testing programming, econometric, or statistical ski
 ### 3. Presentation (10 pts)
 * Scheduled during the last 2-3 meetings of the course.
 * Duration: Approximately **20 minutes**.
-* Requirements: 
-  * All team members must actively participate.
-  * Briefly cover what the project is about, how it was done, and how it works.
-  * Include a short presentation of the code.
-  * The project will be run live from a lab computer after pulling directly from this GitHub repository.
+* Requirements: 
+  * All team members must actively participate.
+  * Briefly cover what the project is about, how it was done, and how it works.
+  * Include a short presentation of the code.
+  * The project will be run live from a lab computer after pulling directly from this GitHub repository.
 
 ---
 
 ## Deadlines
 
-| Date | Milestone |
-| :--- | :--- |
-| **March 28, 2026** | Send information about teams (fill the Google Sheet) |
-| **April 18, 2026** | Provide the link to the team's GitHub repository (or invite via GitHub) |
-| **May 6, 2026** | Confirm project topics (fill the Google Sheet) |
-| **June 13, 2026** | Repository freeze (no further changes allowed in the project repository) |
+| Date | Milestone | Status |
+| :--- | :--- | :--- |
+| **March 28, 2026** | Send information about teams | ✅ Done |
+| **April 18, 2026** | Provide the link to the team's GitHub repository | ✅ Done |
+| **May 6, 2026** | Confirm project topics | 🔄 In Progress |
+| **June 13, 2026** | Repository freeze | ⏳ Pending |
 
 > *Note: You can finish the project earlier and request earlier grading.*
