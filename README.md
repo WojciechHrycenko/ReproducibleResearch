@@ -7,7 +7,7 @@
 * **Aleksandra Szpakowska**
 * **Weronika Mądro**
 * **Wojciech Hrycenko**
-* Course: Reproducible Research (Year: 2025/26, Group: [Wpisz numer grupy])
+* Course: Reproducible Research (Year: 2025/26, Group: 5)
 
 ## What this project does
 This project evaluates cross-language reproducibility by porting an advanced data visualization pipeline from R to Python. It processes simulated fitness, nutrition, and physiological data to accurately recreate complex charts (e.g., ridgeline, dumbbell, and radar plots) using Python libraries.
